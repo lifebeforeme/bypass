@@ -1,5 +1,5 @@
 1. Pastikan sudah menginstall winzip atau winrar.
-2. Copy file yang sudah didownload folder gamenya -> ./SteamLibrary/steamapps/common/ForzaHorizon5
+2. Copy file yang sudah didownload ke dalam folder gamenya -> ./SteamLibrary/steamapps/common/ForzaHorizon5
 3. Klik kanan file yang sudah didownload, kemudian pilih "Ekstrak Here"
 4. Klik kanan file "Enable_Invites_FH5.bat" kemudian pilih "Run As administrator"
 5. Jalankan Game dari Steam
