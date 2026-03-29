@@ -1,3 +1,28 @@
+# Update Log - Versi 1.1.5.1
+
+## 📦 Steam Vault Overhaul (Fitur Baru)
+- **Progress Bar Real-time**: Menambahkan `ttk.Progressbar` untuk melacak proses backup dan restore secara visual.
+- **Bulk Restore (Restore Semua)**: Sekarang Anda dapat mengembalikan seluruh data save library Anda sekaligus dengan fitur "Restore All".
+- **Kustomisasi Direktori**:
+  - Tombol **"Change Dir"**: Ubah folder penyimpanan backup utama sesuai keinginan Anda.
+  - **Manual Backup/Restore**: Pilihan untuk membackup ke atau merestore dari file ZIP spesifik secara manual di setiap kartu game.
+- **Deteksi Save yang Lebih Canggih**:
+  - Peningkatan deteksi untuk **Rockstar Games** (GTA V, GTA V Enhanced, GTA V Legacy, RDR2).
+  - Peningkatan deteksi folder save **Ubisoft Connect** (berdasarkan akun user ID).
+
+## ✨ Peningkatan UI & UX
+- **Status Operasi yang Jelas**: Label status memberikan informasi detail tentang progres file selama operasi berlangsung.
+- **UI Refresh**: Tombol kontrol baru (Change Dir, Restore All) ditambahkan ke bilah atas tab Vault.
+- **Bilingual Support**: Log informasi sekarang sepenuhnya dalam Bahasa Indonesia.
+
+## 🛠️ Perbaikan Bug & Optimasi
+- Memperbaiki masalah deteksi path save untuk game Rockstar versi terbaru.
+- Optimalisasi penanganan file ZIP untuk mencegah korupsi data saat proses backup terhenti.
+- Perbaikan minor pada sistem scrolling tab Vault.
+- Pembersihan kode internal untuk kestabilan aplikasi yang lebih baik.
+
+
+
 # Update Log - Versi 1.1.5
 
 ## 📦 Steam Vault (Fitur Baru)
