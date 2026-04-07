@@ -1,7 +1,7 @@
 # Update Log - Versi 1.1.5.2
 
 ## 🚀 Peningkatan Kecepatan & Keandalan Unduhan
-- **Server Download Baru**: Menambahkan repositori `lifebeforeme/bypass` sebagai sumber cadangan baru untuk pengunduhan manifest game. Hal ini meningkatkan tingkat keberhasilan unduhan manifest jika server utama mengalami gangguan.
+- **Server Download Baru**: Menambahkan server baru sebagai sumber cadangan baru untuk pengunduhan manifest game. Hal ini meningkatkan tingkat keberhasilan unduhan manifest jika server utama mengalami gangguan.
 - **Sistem Failover 5 Lapis**: Aplikasi sekarang secara otomatis mencoba mengunduh dari 5 sumber berbeda (Server Utama, Backup 1, 2, 3, dan Bypass) sebelum melaporkan kegagalan.
 
 ## 🛠️ Pembaruan Sistem
