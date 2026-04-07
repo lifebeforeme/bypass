@@ -1,3 +1,13 @@
+# Update Log - Versi 1.1.5.2
+
+## 🚀 Peningkatan Kecepatan & Keandalan Unduhan
+- **Server Download Baru**: Menambahkan repositori `lifebeforeme/bypass` sebagai sumber cadangan baru untuk pengunduhan manifest game. Hal ini meningkatkan tingkat keberhasilan unduhan manifest jika server utama mengalami gangguan.
+- **Sistem Failover 5 Lapis**: Aplikasi sekarang secara otomatis mencoba mengunduh dari 5 sumber berbeda (Server Utama, Backup 1, 2, 3, dan Bypass) sebelum melaporkan kegagalan.
+
+## 🛠️ Pembaruan Sistem
+- **Update Versi 1.1.5.2**: Pembaruan internal untuk sinkronisasi dengan database di repositori utama.
+- **Optimalisasi Koneksi**: Penyesuaian timeout dan penanganan error pada saat pengambilan data manifest dari Server.
+
 # Update Log - Versi 1.1.5.1
 
 ## 📦 Steam Vault Overhaul (Fitur Baru)
